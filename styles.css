@@ -1,0 +1,19 @@
+.title {
+    font-size: 80px;
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+    border: 10px dotted #d0e9fa;
+    background: #e3f4ff;
+}
+
+.menu {
+    padding: 20px;
+    padding-left: 40px;
+    background: #e3f4ff;
+    margin-right: 1500px;
+    margin-left: 50px;
+    border: 5px #d0e9fa;
+    border-style: dotted;
+    border-radius: 10px;
+}
